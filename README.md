@@ -17,4 +17,4 @@ I strongly recommend the following playlists to learn PyG for anyone doing the c
 
 I also removed the slides because I saw that it takes forever to clone the repo.
 
-If you find any discrepancies in the solutions, please feel free to write to me at my email! (set subject to "[cs224w]").
+If you find any discrepancies in the solutions, please feel free to raise an issue or an PR.

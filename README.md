@@ -11,7 +11,7 @@ I strongly recommend the following playlists to learn PyG for anyone doing the c
 <s>I am planning to upload typeset LaTeX solutions soon!</s>
 
 [Update 09/2024], I have finally got extra time to typeset stuff, started with HW1, already.
-- [ ] HW1
+- [x] HW1, I have changed my answers quite a bit and also added the TeX source (`tex.zip`).
 - [ ] HW2
 - [ ] HW3
 

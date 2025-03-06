@@ -6,12 +6,12 @@ I strongly recommend the following playlists to learn PyG for anyone doing the c
 1. [Antonio Longa's PyTorch Geometric Tutorials](https://www.youtube.com/playlist?list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF)
 2. [Antonio Longa's Advanced PyTorch Geometric Tutorials](https://www.youtube.com/playlist?list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud)
 
-<b>NOTE</b>: I might have to remove this repo/make it private if anyone from Stanford contacts me. It happened with my cs229 repository, so you might find it helpful to download this as a zip.
+<b>NOTE</b>: I might have to remove this repo/make it private if anyone from Stanford contacts me. It happened with my cs229 repository, so you might find it helpful to download this as a zip (the hyperlinks and references will also work with that).
 
 <s>I am planning to upload typeset LaTeX solutions soon!</s>
 
 [Update 09/2024], I have finally got extra time to typeset stuff, started with HW1, already.
-- [x] HW1, I have changed my answers quite a bit and also added the TeX source (`tex.zip`).
+- [x] HW1, I have changed my answers quite a bit.
 - [ ] HW2
 - [ ] HW3
 

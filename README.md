@@ -11,13 +11,11 @@ I strongly recommend the following playlists to learn PyG for anyone doing the c
 <s>I am planning to upload typeset LaTeX solutions soon!</s>
 
 [Update 09/2024], I have finally got extra time to typeset stuff, started with HW1, already.
+
 [Update 03/2025], Done with HW2!
+
 - [x] HW1, I have changed my answers quite a bit.
 - [x] HW2, I have changed my answers quite a bit.
 - [ ] HW3
 
-If you are wondering how I made the graphs plots, I have also uploaded the script I used `plotGraph.py`.
-
-I also removed the slides because I saw that it takes forever to clone the repo.
-
-If you find any discrepancies in the solutions, please feel free to raise an issue or an PR.
+If you are wondering how I made the graphs plots, I have also uploaded the script I used, `plotGraph.py`. If you find any discrepancies in the solutions, please feel free to raise an issue or an PR.

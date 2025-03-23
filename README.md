@@ -1,6 +1,6 @@
 # cs224w
 My Solutions to homework problems and programming assignments for Stanford's cs224w Machine Learning with Graphs (2021) course, [course webpage](https://snap.stanford.edu/class/cs224w-2021/).
-Big thanks to the actual course staff for making the course material available online.
+Big thanks to the course staff for making the course material available online.
 
 I strongly recommend the following playlists to learn PyG for anyone doing the course- 
 1. [Antonio Longa's PyTorch Geometric Tutorials](https://www.youtube.com/playlist?list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF)
@@ -12,10 +12,10 @@ I strongly recommend the following playlists to learn PyG for anyone doing the c
 
 [Update 09/2024], I have finally got extra time to typeset stuff, started with HW1, already.
 
-[Update 03/2025], Done with HW2!
+[Update 03/2025], Done with HW2 & HW3!
 
 - [x] HW1, I have changed my answers quite a bit.
 - [x] HW2, I have changed my answers quite a bit.
-- [ ] HW3
+- [x] HW3, I have not changed my answers much.
 
 If you are wondering how I made the graphs plots, I have also uploaded the script I used, `plotGraph.py`. If you find any discrepancies in the solutions, please feel free to raise an issue or an PR.

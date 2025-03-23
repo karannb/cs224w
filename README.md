@@ -8,14 +8,4 @@ I strongly recommend the following playlists to learn PyG for anyone doing the c
 
 <b>NOTE</b>: I might have to remove this repo/make it private if anyone from Stanford contacts me. It happened with my cs229 repository, so you might find it helpful to download this as a zip (the hyperlinks and references will also work with that).
 
-<s>I am planning to upload typeset LaTeX solutions soon!</s>
-
-[Update 09/2024], I have finally got extra time to typeset stuff, started with HW1, already.
-
-[Update 03/2025], Done with HW2 & HW3!
-
-- [x] HW1, I have changed my answers quite a bit.
-- [x] HW2, I have changed my answers quite a bit.
-- [x] HW3, I have not changed my answers much.
-
-If you are wondering how I made the graphs plots, I have also uploaded the script I used, `plotGraph.py`. If you find any discrepancies in the solutions, please feel free to raise an issue or an PR.
+If you are wondering how I made the graphs plots, I have also uploaded the script I used, `plotGraph.py`. If you find any discrepancies in the solutions, please feel free to raise an issue or an PR (if the links don't work, you might have to download the PDFs).
